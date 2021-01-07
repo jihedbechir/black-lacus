@@ -1,0 +1,20 @@
+<style>
+    .myMovies{
+        margin-bottom: 135%;
+        margin-left: 5%;
+        height: 320px;
+        width: 210px;
+    }
+    .myMovies1{
+        margin-bottom: 115%;
+        margin-left: 5%;
+        height: 320px;
+        width: 210px;
+    }
+</style>
+<img class="myMovies" src="https://lumiere-a.akamaihd.net/v1/images/logan_584x800_9a5af33a.jpeg?region=0,0,584,800" alt="logan">
+<img class="myMovies" src="https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg" alt="the queen's ...">
+<img class="myMovies" src="https://www.reelviews.net/resources/img/posters/thumbs/five_feet_apart_poster.jpg " alt="5 feet apart">
+<img class="myMovies" src="https://relaxnews.s3.amazonaws.com/illustration/photo/2019/05/20/1825373jpg_r_1.47bd3080713.w768.jpg"alt='john wick'>
+<img class="myMovies" src="https://images-na.ssl-images-amazon.com/images/I/918KkftCUFL.jpg" alt="13 resons why">
+<img class="myMovies1" src="https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" alt="kissing smooth">
